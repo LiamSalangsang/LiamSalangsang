@@ -2,20 +2,27 @@
 
 ### About Me
 
-I'm a second-year Bachelor of Computer Science student at the University of Queensland, Australia. Passionate about front-end development and full-stack technologies, I'm deeply intrigued by game development and aspire to explore the creative world of game making.
+I'm a passionate second-year Bachelor of Computer Science student at the University of Queensland, Australia, with a keen interest in software engineering and development. My primary focus lies in front-end development and full-stack technologies, and I'm excited about the prospect of applying my skills to real-world projects.
 
-### Interests
+### Aspiring Software Engineer Intern 🚀
 
-- 🌐 Front-end Development and Full Stack
-- 🎮 Game Development and Game Making
-- 🎲 Gaming Enthusiast
+I'm actively seeking opportunities as a software engineering intern to further enhance my skills and gain hands-on experience in a professional environment. I'm enthusiastic about leveraging my academic knowledge and passion for coding to contribute effectively to innovative projects.
+
+### Interests & Expertise
+
+- 🌐 Proficient in Front-end Development (HTML, CSS, JavaScript) and Upskilling in Full Stack
+- 💡 Gaming Enthusiast, Curious about Game Development 
+- 🧩 Eager to Learn and Explore New Technologies
 
 ### Let's Connect 🤝
 
 🔗 [LinkedIn](https://www.linkedin.com/in/liam-salangsang-b85318283/) - Connect with me on LinkedIn
 
-### Check Out My Work! 🚀
+### Check Out My Work! 🛠️
 
-Feel free to check out my repositories and projects to see what I've been working on!
+Feel free to explore my repositories and projects to see the work I've been involved in and the skills I'm developing.
 
+### Seeking Opportunities! 🌟
+
+I'm actively looking for software engineering internship opportunities to apply my skills and grow in a professional setting. Please reach out if you have any opportunities or if you'd like to connect!
 
