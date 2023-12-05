@@ -10,8 +10,8 @@ I'm actively seeking opportunities as a software engineering intern to further e
 
 ### Interests & Expertise
 
-- 🌐 Proficient in Front-end Development (HTML, CSS, JavaScript) and Upskilling in Full Stack
-- 💡 Gaming Enthusiast, Curious about Game Development 
+- 🌐 Proficient in Front-end Development (HTML, CSS, JavaScript) and Full Stack Technologies
+- 🎮 Curious about Game Development and Intrigued by Game Making
 - 🧩 Eager to Learn and Explore New Technologies
 
 ### Let's Connect 🤝
